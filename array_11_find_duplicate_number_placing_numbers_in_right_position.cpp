@@ -1,4 +1,4 @@
-//Question link: 
+//Question link: https://leetcode.com/problems/find-the-duplicate-number/
 
 class Solution {
 public:
