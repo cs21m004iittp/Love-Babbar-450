@@ -13,6 +13,10 @@
   Similary, if curr_min * curr_element (running min product) > curr_element, we restart the running min product.
 */
 
+//Time complexity: O(n), where n is the number of elements in the array.
+//Space complexity: O(1)
+//Auxiliary space used: O(1)
+
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
