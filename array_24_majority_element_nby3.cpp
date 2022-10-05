@@ -13,6 +13,7 @@
   We need a second pass to verify which of these form part of the answer.
   For the general case, Time complexity: O(nk) + O(n) = O(nk)
                         Auxiliary space used: O(k-1)    //The array of structure containing k-1 potential candidates.
+  This is the Moore's Voting algorithm to find the majority element in an array.
 */
 
 //Time complexity: O(n) + O(n) = O(n)
